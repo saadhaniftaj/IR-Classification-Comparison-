@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+venv/
+.env
+
+# Large dataset files (too big for GitHub)
+data/raw/docword.*.txt
+data/raw/docword.*.txt.gz
+data/raw/vocab.*.txt
+data/raw/Health-Tweets/
+
+# Keep the data directory structure
+!data/raw/.gitkeep
+!data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Results (generated, not source)
+# Comment out if you want to include result plots
+# results/

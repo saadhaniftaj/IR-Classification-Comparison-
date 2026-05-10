@@ -1,0 +1,4 @@
+Classifier,Accuracy,Precision,Recall,F1-Score
+"Naive Bayes (complement, α=1.0)",0.8893,0.8915,0.8893,0.8888
+"Rocchio (α=1.0, β=0.0, metric=cosine)",0.8565,0.8605,0.8565,0.857
+"kNN (k=5, weights=distance)",0.8659,0.8681,0.8659,0.8652
