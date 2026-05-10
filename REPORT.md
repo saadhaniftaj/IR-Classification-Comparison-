@@ -15,11 +15,11 @@
 
 ### Group Members
 
-| Name | Registration No. | Role |
-|---|---|---|
-| Saad Hanif Taj | 2022509 | Group Leader |
-| Ahmed Ali | 2022054 | Algorithm Implementation |
-| Aiza Azeem | 2022077 | Evaluation & Report |
+| Name | Registration No. |
+|---|---|
+| Saad Hanif Taj | 2022509 |
+| Ahmed Ali | 2022054 |
+| Aiza Azeem | 2022077 |
 
 ---
 
